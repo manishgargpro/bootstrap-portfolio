@@ -2,8 +2,11 @@
 	height: 5em;
 }
 
+body{
+	background-image: url("Assets/Images/triangular.png");
+}
 
-.manish{
+.profile-image{
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
