@@ -6,11 +6,6 @@ body{
 	background-image: url("Assets/Images/triangular.png");
 }
 
-.profile-image{
-  -webkit-transform:rotate(270deg);
-  transform: rotate(90deg);
-}
-
 .placeholder{
 	padding-bottom: 1em;
 }
